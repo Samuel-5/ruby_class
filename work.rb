@@ -13,7 +13,8 @@ puts "choose one option below
 -3 to square
 -4 to cube
 -5 to divide
--6 to subtract"
+-6 to subtract
+-7 to squareroot"
 puts "Enter option"
 
 	option=gets.to_i
