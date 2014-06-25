@@ -32,6 +32,8 @@ puts "Enter option"
 		puts a/b#divides numbers
 	when 6
 		puts a-b	#subtracts the number
+	when 7
+		puts a**0.5
 	end
 
 end
