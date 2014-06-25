@@ -34,7 +34,7 @@ puts "Enter option"
 	when 6
 		puts a-b	#subtracts the number
 	when 7
-		puts a**0.5
+		puts a**0.5 #finds square root
 	end
 
 end
