@@ -21,17 +21,17 @@ puts "Enter option"
 	case option
 
 	when 1
-		puts a+b
+		puts a+b #adds the numbers
 	when 2
-		puts a*b
+		puts a*b #multiplies the numbers
 	when 3
-		puts a*a
+		puts a*a#squares a number
 	when 4
-		puts a*a*a
+		puts a*a*a#cubes a number
 	when 5
-		puts a/b
+		puts a/b#divides numbers
 	when 6
-		puts a-b	
+		puts a-b	#subtracts the number
 	end
 
 end
