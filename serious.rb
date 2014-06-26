@@ -1,4 +1,3 @@
-serious = "rubyclass.xls"
-into = File.open(serious, "w")
-into.puts "be srious for this season"
-into.close
+def menu()
+	puts="enter 1 to add"
+end
